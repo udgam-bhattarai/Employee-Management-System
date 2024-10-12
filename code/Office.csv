@@ -1,0 +1,13 @@
+name,password,position,admin_access,department,type,salary,hourly_rate,hours_worked,base_salary,commission_rate,num_sales
+John Doe,password123,Manager,1,IT,Salaried,75000,,,,,
+Jane Smith,password456,Salesperson,0,Sales,Commissioned,,,,40000,70.5,778
+Bob Johnson,password789,Clerk,0,Admin,Hourly,,20,80,,,
+Alice Brown,password101,Senior Developer,1,IT,Salaried,90000,,,,,
+John Major,password112,Junior Developer,0,it,Hourly,,25,60,,,
+Emily Wilson,password131,Senior Sales Rep,1,Sales,Commissioned,,,,50000,155,1250
+Michael White,password415,Data Analyst,0,Admin,Salaried,65000,,,,,
+Sarah Black,password161,Intern,0,HR,Hourly,,15,30,,,
+David Green,password718,Sales Assistant,0,Sales,Commissioned,,,,2000,30,200
+Laura Blue,password920,HR Manager,1,Admin,Salaried,70000,,,,,
+Salaam Farhan,imquirkylikethat,Manager,1,HR,Salaried,6000,,,,,
+Andre Iguodala,passwordfiller321,Officer,0,Admin,Salaried,60000,,,,,
